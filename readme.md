@@ -22,7 +22,7 @@ This portfolio highlights a few samples of my work, talks, and contributions.
 
 ## 📂 Portfolio Samples
 - **API Docs** → [OpenAPI Sample with Redocly](api-docs/openapi-redoc.md)  
-- **Product Documentation** → [User Guide](product-docs/user-guide.md), [Installation Guide](product-docs/installation-guide.md)  
+- **Product Documentation** → [User Guide](https://venki-writer.gitbook.io/product-docs/1.-overview) 
 - **Tutorials** → [API Workflow Tutorial](tutorials/api-workflow.md), [Video Walkthroughs](tutorials/video-links.md)  
 - **Conference Talk** → [Generating OpenAPI Docs with Redocly](conference/techwriters-tribe-redocly.md)  
 
