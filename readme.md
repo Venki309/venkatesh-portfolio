@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/venki309.png" width="150" style="border-radius:50%;" />
+</p>
+
+
 # Venkatesh Duddupudi – Technical Writer Portfolio
 
 👋 Hi, I’m Venkatesh, a Senior Technical Writer with 9+ years of experience in API documentation, SaaS, and cybersecurity.  
