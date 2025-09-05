@@ -34,7 +34,7 @@ This portfolio highlights a few samples of my work, talks, and contributions.
   3. **Step-by-Step Guide**  
      [Activate License on BIG-IP Next Instances](https://clouddocs.f5.com/bigip-next/latest/use_cm/cm_license_bigip_next.html)
   4. **API Reference**  
-     [OpenAPI Documentation](https://clouddocs.f5.com/products/bigip-next/mgmt-api/latest/ApiReferences/bigip_public_api_ref/r_openapi-next.html)
+     [OpenAPI Documentation](https://clouddocs.f5.com/products/bigip-next/mgmt-api/latest/ApiReferences/bigip_public_api_ref/r_openapi-next.html)  
      [Demo OpenAPI Documentation](https://venki309.github.io/openapi/)
 
 ---
