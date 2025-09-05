@@ -21,7 +21,7 @@ This portfolio highlights a few samples of my work, talks, and contributions.
 ---
 
 ## Portfolio Samples
-- **API Docs demo** - [OpenAPI Sample with Redocly](https://venki309.github.io/openapi/)
+- **API Docs demo** - [How to Generate OpenAPI documentation using Redocly](https://venki309.github.io/openapi/)
 - **Product Documentation Sample**  [User Guide](https://venki-writer.gitbook.io/product-docs/1.-overview)
 - **Sample Work links**
   1. **New Feature**  
