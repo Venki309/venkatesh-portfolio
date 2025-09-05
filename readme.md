@@ -6,12 +6,12 @@
 # Venkatesh Duddupudi – Technical Writer Portfolio
 
 Hi, I’m Venkatesh, a Senior Technical Writer with 9+ years of experience in API documentation, SaaS, and cybersecurity.  
-I specialize in **OpenAPI/Swagger docs, DITA/XML authoring, structured content, and developer onboarding workflows**.  
+I specialize in **DITA/XML authoring, structured content, OpenAPI/Swagger docs, and advanced documentation tools**.  
 This portfolio highlights a few samples of my work, talks, and contributions.
 
 ---
 
-## 🔹 About Me
+## About Me
 - 9+ years of experience across Microsoft, Capgemini, Cyient, and F5 Networks.
 - Expertise in API documentation, automation, CI/CD workflows, and SaaS product docs.
 - Conference speaker at TechWriters Tribe on **Generating OpenAPI documentation with Redocly**.
@@ -20,7 +20,7 @@ This portfolio highlights a few samples of my work, talks, and contributions.
 
 ---
 
-## 📂 Portfolio Samples
+## Portfolio Samples
 - **API Docs demo** - [OpenAPI Sample with Redocly](https://venki309.github.io/openapi/)
 - **Product Documentation Sample**  [User Guide](https://venki-writer.gitbook.io/product-docs/1.-overview)
 - **Sample Work links**
@@ -39,12 +39,12 @@ This portfolio highlights a few samples of my work, talks, and contributions.
 
 ---
 
-## 📄 Resume
+## Resume
 [Download Resume (PDF)](resume/Venkatesh_Resume.pdf)
 
 ---
 
-## 🔗 Connect
+## Connect
 - [**LinkedIn Profile**](https://www.linkedin.com/in/duddupudi-venkatesh-3b676312a/)
 - [**GitHub Profile**](https://github.com/Venki309)
 - **Mobile**: +919700202908
