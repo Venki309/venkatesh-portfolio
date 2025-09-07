@@ -5,10 +5,6 @@
     <h2>Venkatesh Duddupudi</h2>
     <h3>Senior Technical Writer</h3>
     <p>Specializing in API documentation, SaaS docs, and cybersecurity.</p>
-    <p>
-      <a href="{{ site.author.github }}">GitHub</a> | 
-      <a href="{{ site.author.linkedin }}">LinkedIn</a>
-    </p>
   </div>
 
   <div style="flex-shrink: 0; margin-left: 20px;">
