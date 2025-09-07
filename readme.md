@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
   <div style="flex: 1;">
-    <h3>Venkatesh Duddupudi</h3>
+    <h2>Venkatesh Duddupudi</h2>
     <h3>Senior Technical Writer</h3>
     <p>Specializing in API documentation, SaaS docs, and cybersecurity.</p>
     <p>
