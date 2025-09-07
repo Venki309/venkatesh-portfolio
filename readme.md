@@ -54,8 +54,3 @@ This portfolio highlights a few samples of my work, talks, and contributions.
 [Download Resume (PDF)](resume/Venkatesh_Resume.pdf)
 
 ---
-
-## Connect
-- [**LinkedIn Profile**](https://www.linkedin.com/in/duddupudi-venkatesh-3b676312a/)
-- [**GitHub Profile**](https://github.com/Venki309)
-- **Mobile**: +919700202908
