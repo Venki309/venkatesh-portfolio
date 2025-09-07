@@ -3,7 +3,6 @@
   <div style="flex: 1;">
     <h1>{{ site.author.name }}</h1>
     <h3>Senior Technical Writer</h3>
-    <p>Specializing in API documentation, SaaS docs, and cybersecurity.</p>
     <p>
       <a href="{{ site.author.github }}">GitHub</a> | 
       <a href="{{ site.author.linkedin }}">LinkedIn</a>
@@ -17,7 +16,7 @@
 </div>
 
 
-Hi, I’m Venkatesh, a Senior Technical Writer with 9+ years of experience in API documentation, SaaS, and cybersecurity.  
+Hi, I’m a Senior Technical Writer with 9+ years of experience in API documentation, SaaS, and cybersecurity.  
 I specialize in **DITA/XML authoring, structured content, OpenAPI/Swagger docs, and advanced documentation tools**.  
 This portfolio highlights a few samples of my work, talks, and contributions.
 
