@@ -1,0 +1,15 @@
+title: "Venkatesh Duddupudi – Portfolio"
+description: "Senior Technical Writer specializing in API docs, SaaS, and cybersecurity"
+
+author:
+  name: "Venkatesh Duddupudi"
+  email: "venki309@gmail.com"
+  github: "https://github.com/Venki309"
+  linkedin: "https://www.linkedin.com/in/duddupudi-venkatesh-3b676312a/"
+
+theme: minima   # or another Jekyll theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
