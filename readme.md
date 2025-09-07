@@ -1,13 +1,8 @@
 
----
-layout: default
-title: "Home"
----
-
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
   <div style="flex: 1;">
-    <h1>{{ site.author.name }}</h1>
+    <h3>Venkatesh Duddupudi</h3>
     <h3>Senior Technical Writer</h3>
     <p>Specializing in API documentation, SaaS docs, and cybersecurity.</p>
     <p>
