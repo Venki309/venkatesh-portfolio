@@ -39,14 +39,16 @@ This portfolio highlights a few samples of my work, talks, and contributions.
      *Prepared from scratch based on the design documentation*  
       [Capacity Planning](https://www.ibm.com/docs/en/storage-insights?topic=pro-capacity-planning)  
       [Forward Voice Calls](https://learn.microsoft.com/en-us/dynamics365/customer-service/administer/voice-forward-calls)  
-      [Generate a BIG-IP Next Instance QKView](https://clouddocs.f5.com/bigip-next/latest/support/qkview_generate_download_upload_to_ihealth.html)  
+
   2. **UI Walkthrough**  
      [Capacity Planning Details](https://www.ibm.com/docs/en/storage-insights?topic=planning-capacity-details)
   3. **Step-by-Step Guide**  
      [Activate License on BIG-IP Next Instances](https://clouddocs.f5.com/bigip-next/latest/use_cm/cm_license_bigip_next.html)
-  4. **API Reference**  
-     [OpenAPI Documentation](https://clouddocs.f5.com/products/bigip-next/mgmt-api/latest/ApiReferences/bigip_public_api_ref/r_openapi-next.html)  
+  4. [Troubleshooting Documentation](https://clouddocs.f5.com/products/extensions/f5-appsvcs-extension/latest/userguide/troubleshooting.html#trouble)
+  5. **API Reference**
      [Demo OpenAPI Documentation](https://venki309.github.io/openapi/unified-api.html)
+     [OpenAPI Documentation](https://clouddocs.f5.com/products/extensions/f5-appsvcs-extension/latest/refguide/apidocs.html)  
+     
 
 ---
 
